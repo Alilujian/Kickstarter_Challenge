@@ -6,7 +6,7 @@ Excle is a powerful tool for data analysis, visulization, and organization.
 In this project we will using the Excel tools to help the playwright Louise on her crowd funding campaign.
 
 ### Purpose
-The purpose of this project is to analysis crowdfunding data to determine:\
+The purpose of this project is to analysis crowdfunding data to determine:
 1. the relationship between launch dates and the outcomes.
 2. the relationship between funding goals and the campaign outcomes.
 
