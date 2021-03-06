@@ -22,14 +22,14 @@ Based on launch date
 
 
 ## Results
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?---
 In conclusions, the theater are most successful in May. In December, the successful and failed outcomes are at the same level. Canceled outcomes are similar over 12 months.
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?---
 At lower goals, the successful and failed outcomes are at a similar level. With higher goals, the percentage successful is higher than the percentage failed. The number of projects are higher with lower goals compare to projects with higher goals.
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?---
 The dataset only contain data from 2009 to 2017, which means the dataset is out of date.
 
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?---
 We can also creates chart like average donation versus subcategory. From this chart we would be able to see which category people would like to fund.
