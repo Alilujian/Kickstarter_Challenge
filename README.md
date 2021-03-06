@@ -18,6 +18,8 @@ Based on launch date, most successful campaign lauch in May and June. In Decembe
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes_vs_Goals](https://github.com/Alilujian/Kickstarter_Challenge/blob/main/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 By completing this project, i became familiar with the COUNTIFS funtion in Excel. I am able to create pivot table and pivot chart based on different indicators.
 
