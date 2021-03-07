@@ -2,13 +2,21 @@
 Analysis of the kickstarter data in Excel
 
 ## Overview of Project
-Excle is a powerful tool for data analysis, visulization, and organization.
-In this project we will using the Excel tools to help the playwright Louise on her crowd funding campaign.
+Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to. In this project we will using the Excel tools to help the playwright Louise on her crowd funding campaign.
 
 ### Purpose
 The purpose of this project is to analysis crowdfunding data to determine:
 1. the relationship between launch dates and the outcomes.
 2. the relationship between funding goals and the campaign outcomes.
+
+## Data
+The Kickstarter dataset is an Excel spreadsheet that contains column like project names, funding goals, category, campaign outcomes and the start/end date, etc.
+
+### Create New Column
+1. Some of the campaign failed simly becase they missed a very small amount from the goals. In order to see how successful the project was, the percentage funded would be more straight forward. A new column <mark>percentage funded</mark> will be created.
+2. 
+
+
 
 ## Analysis and Challenges
 In this project, we are dealing with tabular data which is displaed in a column and row format. It is hard for us to analysis the dataset comprehensive without using tools like filter, pivot table, and chart. The challenges for me is to use the advanced tools that is built in the Excel software.
