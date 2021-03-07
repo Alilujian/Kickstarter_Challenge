@@ -2,7 +2,8 @@
 Analysis of the kickstarter data in Excel
 
 ## Overview of Project
-Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to. In this project we will using the Excel tools to help the playwright Louise on her crowd funding campaign.
+Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to. 
+
 
 ### Purpose
 The purpose of this project is to analysis crowdfunding data to determine:
@@ -13,10 +14,9 @@ The purpose of this project is to analysis crowdfunding data to determine:
 The Kickstarter dataset is an Excel spreadsheet that contains column like project names, funding goals, category, campaign outcomes and the start/end date, etc.
 
 ### Create New Column
-1. Some of the campaign failed simly becase they missed a very small amount from the goals. In order to see how successful the project was, the percentage funded would be more straight forward. A new column <mark>percentage funded</mark> will be created.
-2. 
-
-
+1. Some of the campaign failed simly becase they missed a very small amount from the goals. In order to see how successful the project was, the percentage funded would be more straight forward. A new column percentage funded will be created.
+2. From the column Category and Sub-category, we can't clearly determine the sub-categroy of plays by looking at this column. In order to read the category clearly, we split the column into two new column, parent category and sub-category.
+3. Since the dataset only shows us the Unix timestamps, we need to convert the launched_at coulmns into a readable datetime information. In this case, we will create a new column "Date Created Conversion".
 
 ## Analysis and Challenges
 In this project, we are dealing with tabular data which is displaed in a column and row format. It is hard for us to analysis the dataset comprehensive without using tools like filter, pivot table, and chart. The challenges for me is to use the advanced tools that is built in the Excel software.
@@ -41,7 +41,8 @@ In conclusions, the campaign are most successful in May. In December, the succes
 At lower goals, the successful and failed outcomes are at a similar level. With higher goals, the percentage successful is higher than the percentage failed. The number of projects are higher with lower goals compare to projects with higher goals.
 
 - What are some limitations of this dataset?\
-The dataset only contain data from 2009 to 2017, which means the dataset is out of date. The results we got from this dataset might not be accurate.
+1. The dataset only contain data from 2009 to 2017, which means the dataset is out of date. The results we got from this dataset might not be accurate.
+2. It is better to konw the time spend on Louise campaign. So that we can compare the relationship between campaign duration and the outcomes.
 
 - What are some other possible tables and/or graphs that we could create?\
 We can also creates chart like average donation versus subcategory. From this chart we would be able to see which category people would like to fund.
