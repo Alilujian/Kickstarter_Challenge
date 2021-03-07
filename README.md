@@ -2,8 +2,13 @@
 Analysis of the kickstarter data in Excel
 
 ## Overview of Project
-Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to. 
+Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to./
 
+Kickstarter data shows that there were a total of 1393 theater campaigns launched globally. Among these campaigns, there were 839 succcessful and 493 failed.
+![Theater_Outcomes_Chart]()
+
+Among these campaigns, there were 1066 campaings belong to the "plays" subcategory. Among these plays campaigns, 694 were successfula and 353 were failed.
+![Plays_Statistic]()
 
 ### Purpose
 The purpose of this project is to analysis crowdfunding data to determine:
