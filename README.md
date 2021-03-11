@@ -2,7 +2,7 @@
 Analysis of the kickstarter data in Excel
 
 ## Overview of Project
-Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to./
+Kickstarter is crowdfunding platform help bring projects to life. There are many projects launched on Kickstarter, but not every project has made success. What makes crowdfunding successful is a question that all promoters want to know the answer to.\
 
 Kickstarter data shows that there were a total of 1393 theater campaigns launched globally. Among these campaigns, there were 839 succcessful and 493 failed.
 ![Theater_Outcomes_Chart](https://github.com/Alilujian/Kickstarter_Challenge/blob/main/Theater_Outcomes_Chart.png)
@@ -45,7 +45,7 @@ In conclusions, the campaign are most successful in May. In December, the succes
 - What can you conclude about the Outcomes based on Goals?\
 At lower goals, the successful and failed outcomes are at a similar level. With higher goals, the percentage successful is higher than the percentage failed. The number of projects are higher with lower goals compare to projects with higher goals.
 
-- What are some limitations of this dataset?\
+- What are some limitations of this dataset?
 1. The dataset only contain data from 2009 to 2017, which means the dataset is out of date. The results we got from this dataset might not be accurate.
 2. It is better to konw the time spend on Louise campaign. So that we can compare the relationship between campaign duration and the outcomes.
 
